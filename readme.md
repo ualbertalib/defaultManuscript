@@ -1,6 +1,6 @@
 # Manuscript (Default child theme)
 
-A clean, simple theme with a boxed layout that mimics a paper document.
+A clean, simple theme with a boxed layout that mimics a paper document.  This forked version of the defaultManuscript removes the author Biographies in the templates/frontend/objects/article_details.tpl file
 
 ## Installation
 
