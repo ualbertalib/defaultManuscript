@@ -1,6 +1,7 @@
-# Manuscript (Default child theme)
+# Manuscript (Default child theme) (customized for ualberta libraries)
 
-A clean, simple theme with a boxed layout that mimics a paper document.  This forked version of the defaultManuscript removes the author Biographies in the templates/frontend/objects/article_details.tpl file
+This forked version of the defaultManuscript removes the author Biographies in the templates/frontend/objects/article_details.tpl file.
+It's a clean, simple theme with a boxed layout that mimics a paper document.
 
 ## Installation
 
